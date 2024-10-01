@@ -69,7 +69,7 @@ footer p.copyright {
     font-size: 80%;
 }
 
-.contact {
+div.contact {
     margin: 1.5em 2em 0 2em;
     border: 5px dotted blue;
     border-radius: 20px; 
