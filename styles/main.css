@@ -15,7 +15,7 @@ body {
 
     background-image: url("../images/SHSULogo.jpg");
     background-repeat: repeat-y;
-    background-position: right 10px;
+    background-position: right 10px top;
     background-attachment: fixed;
 
 }
