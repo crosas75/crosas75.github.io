@@ -90,7 +90,7 @@ p.copyright {
 
 p.fixed {
     position: fixed;
-    position: right; 
+    float: right;
     left: 10px; 
     width: auto;
     background-color: #90ee90; 
