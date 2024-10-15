@@ -90,8 +90,8 @@ p.copyright {
 
 p.fixed {
     position: fixed;
-    float: right;
-    left: 10px; 
+    top: 2em;
+    right: 5em; 
     width: auto;
     background-color: #90ee90; 
     padding: 10px;
