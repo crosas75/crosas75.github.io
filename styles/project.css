@@ -88,10 +88,9 @@ p.copyright {
 
 p.fixed {
     position: fixed;
-    bottom: 10px; 
+    position: right; 
     left: 10px; 
     width: auto;
     background-color: #90ee90; 
     padding: 10px;
-    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
 }
