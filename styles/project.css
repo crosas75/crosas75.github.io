@@ -86,3 +86,11 @@ p.copyright {
     text-align: center;
     font-size: 80%;
 }
+
+main {
+    height: 350px; /* to give the aside
+    some height for its border */
+    width: 600px;
+    float: left;
+    border-right: 2px solid #ef9c00;
+}
