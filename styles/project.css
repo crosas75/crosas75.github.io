@@ -85,3 +85,12 @@ footer {
 p.copyright {
     text-align: center;
 }
+
+p.fixed {
+    position: fixed;
+    bottom: 10px; 
+    left: 10px; 
+    background-color: #f0f0f0; 
+    padding: 10px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+}
