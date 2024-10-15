@@ -85,11 +85,3 @@ footer {
 p.copyright {
     text-align: center;
 }
-
-main {
-    height: 350px; /* to give the aside
-    some height for its border */
-    width: 600px;
-    float: left;
-    border-right: 2px solid #ef9c00;
-}
