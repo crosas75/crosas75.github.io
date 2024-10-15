@@ -75,6 +75,7 @@ aside {
     background-color: #ffebc6;
     padding-left: 1em;
     padding-bottom: 1em;
+    border-top: 2px solid maroon;
 }
 
 footer {
