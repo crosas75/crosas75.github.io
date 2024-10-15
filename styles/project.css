@@ -81,3 +81,8 @@ footer {
     clear: both;
     border-top: 2px solid maroon;
 }
+
+p.copyright {
+    text-align: center;
+    font-size: 80%;
+}
