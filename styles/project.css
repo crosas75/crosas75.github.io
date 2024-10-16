@@ -93,6 +93,7 @@ p.fixed {
     top: 20em;
     right: 5em; 
     width: auto;
-    background-color: #90ee90; 
+    background-color: #90ee90;
+    border: thick green; 
     padding: 10px;
 }
