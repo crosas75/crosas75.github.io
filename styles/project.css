@@ -97,6 +97,5 @@ p.fixed {
     border: 1px solid black; /* Optional: add a border */
     width: auto;     /* Set the width to auto */
     box-shadow: 2px 2px 5px rgba(0,0,0,0.3); /* Optional: Add a subtle shadow */
-    z-index: 1000;   /* Ensure it's on top of other elements */
   }
   
