@@ -50,6 +50,7 @@ article {
     column-rule: 2px dotted maroon;
     column-gap: 2em;
     margin-left: 2em;
+    border-top: 2px solid maroon;
 }
 
 article h3 {
@@ -90,7 +91,7 @@ p.copyright {
 p.fixed {
     position: fixed; 
     width: auto;
-    bottom: 20px;    
+    top: 20px;    
     right: 20px;     
     background-color: lightgreen; 
     padding: 10px;   
