@@ -99,6 +99,6 @@ p.fixed {
   
   .line {
     width: 100%;
-    border: none;
-    background-color: maroon;
+    border: 3px solid maroon;
+    margin: 20px
   }
