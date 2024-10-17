@@ -89,13 +89,12 @@ p.copyright {
 }
 
 p.fixed {
-    position: fixed; /* This makes it stay fixed on the screen */
-    bottom: 20px;    /* Position it at the bottom of the page */
-    right: 20px;     /* Position it towards the right */
-    background-color: lightgreen; /* The green background color */
-    padding: 10px;   /* Add some padding inside the box */
-    border: 1px solid black; /* Optional: add a border */
-    width: auto;     /* Set the width to auto */
-    box-shadow: 2px 2px 5px rgba(0,0,0,0.3); /* Optional: Add a subtle shadow */
+    position: fixed; 
+    width: auto;
+    top: auto;    
+    float: right;     
+    background-color: lightgreen; 
+    padding: 10px;   
+    border: 1px solid black;
   }
   
