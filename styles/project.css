@@ -97,3 +97,7 @@ p.fixed {
     border: 5px solid darkgreen;
   }
   
+  .line {
+    width: 100%;
+    color: maroon;
+  }
