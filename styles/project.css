@@ -91,7 +91,7 @@ p.copyright {
 p.fixed {
     position: fixed; 
     width: auto;
-    top: auto;    
+    top: 20em;    
     float: right;     
     background-color: lightgreen; 
     padding: 10px;   
