@@ -99,5 +99,6 @@ p.fixed {
   
   .line {
     width: 100%;
-    color: maroon;
+    border: none;
+    background-color: maroon;
   }
