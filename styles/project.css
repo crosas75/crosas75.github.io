@@ -50,7 +50,6 @@ article {
     column-rule: 2px dotted maroon;
     column-gap: 2em;
     margin-left: 2em;
-    border-top: 2px solid maroon;
 }
 
 article h3 {
@@ -97,3 +96,11 @@ p.fixed {
     border: thick green; 
     padding: 10px;
 }
+
+.top-line {
+    border: none; 
+    border-top: 3px solid #800000; 
+    margin: 0; 
+    width: 100%; 
+  }
+  
