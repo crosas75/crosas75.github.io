@@ -26,3 +26,10 @@
 #nav_menu ul li a.current { 
     color: yellow; 
 }
+
+aside ul {
+    list-style-type: upper-roman;
+}
+aside li {
+    list-style-type: square;
+}
