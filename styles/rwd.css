@@ -100,7 +100,7 @@ article {
     padding: 0 em;
 }
 
-article {
+article h2 {
     font-size: 1.25 em;
 }
 
@@ -162,12 +162,12 @@ footer {
         border-bottom: 1px solid #444;
         }
 
-        article {
-            font-size: 1.25 em;
+        article h2 {
+            font-size: 1.1 em;
         }
         
         article p {
-            font-size: 1em;
+            font-size: .8em;
         }
         
         article img {
@@ -177,9 +177,9 @@ footer {
             max-width: 768px;
         }
         footer {
-            border-top: 2px #f46b45;
+            border-top: 1px #f46b45;
             text-align: center;
-            font-size: .8em;
+            font-size: .6em;
         }
 
 }
