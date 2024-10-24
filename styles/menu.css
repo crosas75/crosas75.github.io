@@ -27,9 +27,9 @@
     color: yellow; 
 }
 
-aside ul {
+#order  {
     list-style-type: upper-roman;
 }
-aside li {
+#unorder {
     list-style-type: square;
 }
