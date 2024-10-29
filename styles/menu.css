@@ -34,6 +34,6 @@
     list-style-type: square;
 }
 
-h1{
-    margin: 20px auto;
+#nav_menu {
+    margin-bottom: 20px;
 }
