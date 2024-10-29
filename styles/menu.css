@@ -33,7 +33,10 @@
 #unorder {
     list-style-type: square;
 }
+#nav_menu {
+    block-size: 2em;
+}
 
 h1 {
-    margin-top: 20px; /* Ensure space below the nav */
+    margin-top: 2em;
 }
