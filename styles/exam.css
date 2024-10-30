@@ -43,7 +43,7 @@ html{
 article h1{
     color: blue;
     width: auto;
-    
+
 }
 
 body{
@@ -57,9 +57,9 @@ body{
 
     background-image: url("../images/shsu.jpg");
     background-repeat: repeat-y;
-    background-position: 87%;
+    background-position: 95%;
     background-attachment: fixed;
-    background-size: 20em;
+    background-size: 40em;
 }
 
 article {
