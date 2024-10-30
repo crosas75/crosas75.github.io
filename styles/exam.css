@@ -3,7 +3,7 @@ html{
 }
 
 #nav_menu {
-    block-size: 2em;
+    padding-bottom: 5em;
 }
 
 #nav_menu ul { 
@@ -33,6 +33,12 @@ html{
 #nav_menu ul li a.current { 
     color: yellow; 
 }
+
+.line {
+    width: 100%;
+    border-top: 2px solid blue;
+    margin: auto;
+  }
 
 body{
     width: 95%;
