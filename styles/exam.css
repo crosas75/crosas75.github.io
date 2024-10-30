@@ -1,5 +1,6 @@
 #nav_menu {
     block-size: 2em;
+    border-bottom: 2px blue;
 }
 
 #nav_menu ul { 
@@ -28,12 +29,6 @@
 
 #nav_menu ul li a.current { 
     color: yellow; 
-}
-
-.line {
-    width: 100%;
-    border-top: 2px solid blue;
-    margin: auto;
 }
 
 article {
@@ -75,9 +70,11 @@ article p::first-letter {
 #order  {
     list-style-type: upper-roman;
 }
+
 #unorder {
     list-style-type: square;
 }
+
 #letterList{
     list-style-type: lower-alpha;
 }
