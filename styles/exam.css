@@ -64,6 +64,10 @@ aside {
     right: 20px;
 }
 
+article h2{
+    color: blue;
+}
+
 article p::first-letter {
     font-size: 1em;
     font-weight: bold;
