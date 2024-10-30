@@ -40,6 +40,12 @@ html{
     margin: auto;
 }
 
+article h1{
+    color: blue;
+    width: auto;
+    
+}
+
 body{
     width: 95%;
     margin: 15px auto;
