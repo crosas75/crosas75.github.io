@@ -1,9 +1,9 @@
 html{
     background-color: #add8e6;
 }
+
 #nav_menu {
     block-size: 2em;
-    border-bottom: 2px blue;
 }
 
 #nav_menu ul { 
