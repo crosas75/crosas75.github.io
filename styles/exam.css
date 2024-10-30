@@ -1,3 +1,7 @@
+#nav_menu {
+    block-size: 2em;
+}
+
 #nav_menu ul { 
     list-style-type: none; 
 }
