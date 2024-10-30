@@ -75,7 +75,7 @@ article p::first-letter {
     list-style-type: square;
 }
 
-#letterList{
+#letterlist{
     list-style-type: lower-alpha;
 }
 
