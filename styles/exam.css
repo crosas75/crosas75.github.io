@@ -55,7 +55,10 @@ aside {
     right: 20px;
 }
 
-
+article p::first-letter {
+    font-size: 3em;
+    font-weight: bold;
+}
 
 
 
