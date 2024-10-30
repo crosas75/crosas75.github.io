@@ -41,9 +41,9 @@ article {
     width: 75%;
     float: left;
     column-count: 3;
-    column-rule: 5px dashed blue;
-    column-gap: 1em;
-    margin-left: 1em;
+    column-rule: 2px dashed blue;
+    column-gap: 2em;
+    margin-left: 2em;
 }
 
 article img {
