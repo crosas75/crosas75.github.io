@@ -1,3 +1,6 @@
+html{
+    background-color: #add8e6;
+}
 #nav_menu {
     block-size: 2em;
     border-bottom: 2px blue;
@@ -33,7 +36,17 @@
 
 body{
     width: 95%;
-    margin: 15px auto
+    margin: 15px auto;
+    background-color: white;
+    padding: 15px 1.5em;
+    border: 1px solid black;
+    border-radius: 25px;
+    box-shadow: 5px 5px 0 0;
+
+    background-image: url("../images/SHSULogo.jpg");
+    background-repeat: repeat-y;
+    background-position: 87%;
+    background-attachment: fixed;
 }
 
 article {
