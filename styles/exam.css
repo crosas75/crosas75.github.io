@@ -55,7 +55,7 @@ article img {
 aside {
     width: 20%;
     float: right;
-    background-color: #ffebc6;
+    background-color: hsl(201, 75%, 54%);
     padding-left: 3em;
     padding-bottom: 3em;
     position: fixed; 
