@@ -34,11 +34,11 @@ html{
     color: yellow; 
 }
 
-.line {
+#line {
     width: 100%;
     border-top: 2px solid blue;
     margin: auto;
-  }
+}
 
 body{
     width: 95%;
