@@ -43,10 +43,11 @@ body{
     border-radius: 25px;
     box-shadow: 5px 5px 0 0;
 
-    background-image: url("../images/SHSULogo.jpg");
+    background-image: url("../images/SHSU.jpg");
     background-repeat: repeat-y;
     background-position: 87%;
     background-attachment: fixed;
+    background-size: 10em;
 }
 
 article {
