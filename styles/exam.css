@@ -65,7 +65,7 @@ aside {
 }
 
 article p::first-letter {
-    font-size: 3em;
+    font-size: 1em;
     font-weight: bold;
 }
 
