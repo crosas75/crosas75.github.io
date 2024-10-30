@@ -42,7 +42,7 @@ html{
 
 article h1{
     color: blue;
-    width: auto;
+    column-span: all;
     margin: 15px auto;
 }
 
