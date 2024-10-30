@@ -62,8 +62,8 @@ article {
 
 article img {
     float: left;
-    margin-right: 1em;
-    margin-bottom: 1em;
+    margin-right: 10px;
+    margin-bottom: 10px;
 }
 
 aside {
@@ -82,8 +82,9 @@ article h2{
 }
 
 article p::first-letter {
-    font-size: 1em;
+    font-size: 2em;
     font-weight: bold;
+    font-style: italic;
 }
 
 #order  {
