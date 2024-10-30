@@ -43,7 +43,7 @@ html{
 article h1{
     color: blue;
     width: auto;
-
+    margin: 15px auto;
 }
 
 body{
