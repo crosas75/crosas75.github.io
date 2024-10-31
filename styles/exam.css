@@ -60,7 +60,7 @@ body{
     background-repeat: repeat-y;
     background-position: 95%;
     background-attachment: fixed;
-    background-image: 20em;
+    background-size: 20em;
 }
 
 article {
