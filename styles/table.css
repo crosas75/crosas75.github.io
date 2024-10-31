@@ -4,7 +4,7 @@ table.first{
 }
 
 table.first th, table.first td{
-    border: 2px solid blue;
+    border: 2px solid lightblue;
 }
 
 table.first tr:nth-child(odd){
