@@ -4,9 +4,9 @@ table.first{
 }
 
 table.first th, table.first td{
-    border: 2px solid lightblue;
+    border: 2px solid blue;
 }
 
 table.first tr:nth-child(odd){
-    background-color: blue;
+    background-color: lightblue;
 }
