@@ -1,4 +1,4 @@
-html{
+html {
     background-color: #add8e6;
 }
 
@@ -6,32 +6,32 @@ html{
     padding-bottom: 4em;
 }
 
-#nav_menu ul { 
-    list-style-type: none; 
+#nav_menu ul {
+    list-style-type: none;
 }
 
-#nav_menu ul li { 
-    float: left; 
+#nav_menu ul li {
+    float: left;
 }
 
 #nav_menu ul li a {
     text-align: center;
     display: block;
     width: 175px;
-    padding: 1em 1em; 
+    padding: 1em 1em;
     text-decoration: none;
     background-color: blue;
     color: white;
     font-weight: bold;
-    border-right: 2px solid white; 
+    border-right: 2px solid white;
 }
 
-#nav_menu ul li a.lastitem { 
-    border-right: none; 
+#nav_menu ul li a.lastitem {
+    border-right: none;
 }
 
-#nav_menu ul li a.current { 
-    color: yellow; 
+#nav_menu ul li a.current {
+    color: yellow;
 }
 
 #line {
@@ -40,13 +40,13 @@ html{
     margin: auto;
 }
 
-article h1{
+article h1 {
     color: blue;
     column-span: all;
     margin: 15px auto;
 }
 
-body{
+body {
     font-family: Arial, Helvetica, sans-serif;
     width: 95%;
     margin: 15px auto;
@@ -83,14 +83,14 @@ aside {
     width: 20%;
     float: right;
     background-color: #add8e6;
-    padding: 15px 15px;   
+    padding: 15px 15px;
     border: 5px solid #3f3990;
-    position: fixed; 
-    top: 22em;    
+    position: fixed;
+    top: 22em;
     right: 20px;
 }
 
-article h2{
+article h2 {
     color: blue;
 }
 
@@ -100,7 +100,7 @@ article p::first-letter {
     font-style: italic;
 }
 
-#order  {
+#order {
     list-style-type: upper-roman;
 }
 
@@ -108,7 +108,7 @@ article p::first-letter {
     list-style-type: square;
 }
 
-#letterlist{
+#letterlist {
     list-style-type: lower-alpha;
 }
 

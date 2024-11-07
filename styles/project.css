@@ -14,9 +14,10 @@ body {
     box-shadow: 5px 5px 0 0;
 }
 
-a:focus, a:hover {
+a:focus,
+a:hover {
     font-style: italic;
-    color:orangered;
+    color: orangered;
     border: 3px blue;
     border-style: dotted solid;
 }
@@ -28,14 +29,14 @@ header h1 {
 }
 
 header h2 {
-    font-size: 130%; 
+    font-size: 130%;
     color: #800000;
     text-indent: 30px;
 }
 
 header img {
     float: left;
-    margin-left: 2em; 
+    margin-left: 2em;
 }
 
 .shadow {
@@ -88,17 +89,17 @@ p.copyright {
 }
 
 p.fixed {
-    position: fixed; 
+    position: fixed;
     width: auto;
-    top: 22em;    
-    right: 20px;     
-    background-color: lightgreen; 
-    padding: 10px;   
+    top: 22em;
+    right: 20px;
+    background-color: lightgreen;
+    padding: 10px;
     border: 5px solid darkgreen;
-  }
-  
-  .line {
+}
+
+.line {
     width: 100%;
     border-top: 2px solid maroon;
     margin: auto;
-  }
+}

@@ -20,9 +20,10 @@ body {
 
 }
 
-a:focus, a:hover {
+a:focus,
+a:hover {
     font-style: italic;
-    color:orangered;
+    color: orangered;
 }
 
 header h1 {
@@ -32,14 +33,14 @@ header h1 {
 }
 
 header h2 {
-    font-size: 130%; 
+    font-size: 130%;
     color: #800000;
     text-indent: 30px;
 }
 
 header img {
     float: left;
-    margin-left: 2em; 
+    margin-left: 2em;
 }
 
 .shadow {
@@ -52,14 +53,15 @@ main {
 
 main h3 {
     margin-top: 3em;
-    margin: 3em 2em 1.5em 2em; 
-    border: 5px double blue; 
-    border-radius: 20px; 
-    box-shadow: 3px 3px 4px 4px red; 
+    margin: 3em 2em 1.5em 2em;
+    border: 5px double blue;
+    border-radius: 20px;
+    box-shadow: 3px 3px 4px 4px red;
     padding: 1em;
-  
+
     font-size: 105%;
 }
+
 #list {
     line-height: 1.5em;
 }
@@ -72,16 +74,16 @@ p.copyright {
 div.contact {
     margin: 1.5em 2em 0 2em;
     border: 5px dotted blue;
-    border-radius: 20px; 
+    border-radius: 20px;
     box-shadow: 3px 3px 4px 4px red;
-    padding: 1em; 
+    padding: 1em;
     font-size: 105%;
 }
 
 main nav {
-    margin: 1.5em 2em 1.5em 2em; 
+    margin: 1.5em 2em 1.5em 2em;
     border: 5px dashed blue;
-    border-radius: 20px; 
+    border-radius: 20px;
     box-shadow: 3px 3px 4px 4px red;
-    padding: 0.5em; 
+    padding: 0.5em;
 }
