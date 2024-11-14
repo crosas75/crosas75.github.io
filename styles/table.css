@@ -45,10 +45,10 @@ table.third thead tr:first-child {
 
 @media only screen and (max-width: 425px) {
     th, td {
-    display: block;
+        display: block;
     }
     thead, td.number {
-    display: none;
-    padding: 0;
+        display: none;
+        padding: 0;
     }
-    }
+}
