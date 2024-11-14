@@ -38,5 +38,5 @@ table.third th{
     border-bottom: 2px solid orange;
 }
 table.third th, table.third td{
-    padding: 5px;
+    padding: 0.2em;
 }
