@@ -27,3 +27,8 @@ table.second th, table.second td{
     vertical-align: middle;
     border: 2px solid purple
 }
+
+table.second{
+    border-collapse: collapse;
+    border: 2px solid orange;
+}
