@@ -33,6 +33,8 @@ table.third{
 }
 table.third th{
     background-color: lightgreen;
+    border-top: 2px solid orange;
+    border-bottom: 2px solid orange;
 }
 table.third th, table.third td{
     padding: 0.7em;
