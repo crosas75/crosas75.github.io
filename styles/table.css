@@ -40,3 +40,13 @@ table.third th{
 table.third th, table.third td{
     padding: 0.2em;
 }
+
+@media only screen and (max-width: 425px) {
+    th, td {
+    display: block;
+    }
+    thead, td.number {
+    display: none;
+    padding: 0;
+    }
+    }
