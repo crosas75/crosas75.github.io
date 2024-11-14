@@ -32,13 +32,14 @@ table.third{
     border-collapse: collapse;
     border-bottom: 2px solid orange;
 }
-table.third th{
-    background-color: lightgreen;
-    border-top: 2px solid orange;
-    border-bottom: 2px solid orange;
-}
+
 table.third th, table.third td{
     padding: 0.2em;
+}
+
+table.third thead tr:first-child { 
+    border-top: 2px solid orangered;
+    border-bottom: 2px solid orangered;
 }
 
 @media only screen and (max-width: 425px) {
