@@ -3,51 +3,72 @@ fieldset {
     margin-top: 1em;
     margin-bottom: 1em;
     padding-top: .5em;
-    }
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
 
-    legend {
+legend {
     color: #931420;
     font-weight: bold;
     font-size: 85%;
     margin-bottom: .5em;
-    }
+}
 
-    label, input, select {
+label, input, select {
     font-size: 90%;
-    }
+}
 
-    label {
+label {
     float: left;
     width: 9em;
     text-align: right;
-    }
+    margin-right: 0.5em;
+}
 
-    input, select {
+input, select {
     margin-left: .5em;
     margin-bottom: .5em;
-    }
+    padding: 0.3em;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+}
 
-    input:required {
+input:required {
     border: 3px solid red;
-    }
+}
 
-    input:valid {
+input:valid {
     border: 1px solid black;
-    }
+}
 
-    input:invalid {
+input:invalid {
     box-shadow: none;
-    }
+}
 
-    br {
+br {
     clear: both;
-    }
+}
 
-    textarea {
+textarea {
     height: 5em;
     width: 35em;
-    }
-    
-    #buttons input {
+    margin-left: 9.5em;
+    resize: vertical;
+    padding: 0.3em;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+}
+
+#buttons input {
     width: 10em;
-    }
+    padding: 0.5em;
+    background-color: #931420;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+#buttons input:hover {
+    background-color: #730f18;
+}
